@@ -1,0 +1,8 @@
+[package]
+name = "reservoir"
+version = "0.1.0"
+authors = ["Nat Pryce <sw@natpryce.com>"]
+
+[dependencies]
+rand = "0.3.11"
+
