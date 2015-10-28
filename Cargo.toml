@@ -2,6 +2,7 @@
 name = "reservoir"
 version = "0.1.0"
 authors = ["Nat Pryce <sw@natpryce.com>"]
+description="Reservoir sampling of iterators"
 homepage = "https://github.com/npryce/reservoir-rs"
 repository="https://github.com/npryce/reservoir-rs"
 license="Apache-2.0"
